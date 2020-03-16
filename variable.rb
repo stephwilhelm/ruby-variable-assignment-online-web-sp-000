@@ -3,5 +3,3 @@
 def variable
   greeting = "Hello World"
 end
-
-puts {variable}
