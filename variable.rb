@@ -5,3 +5,5 @@ require 'pry'
 def variable
   greeting = "Hello World"
 end
+
+puts "#{greeting}"
